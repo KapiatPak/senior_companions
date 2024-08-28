@@ -1,16 +1,12 @@
 # senior_companions
+A Flutter project for Macao Polytechnic University's Final Year Project (FYP)
 
-A new Flutter project.
+The "Senior Companions" project aims to develop an Android mobile application that will serve as a comprehensive digital companion for seniors in Macau, addressing their unique needs and improving their quality of life. It is designed to provide a range of features and functionalities to support their daily needs and social connections.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Objectives
+• Develop an android mobile application with suitable user interface and intuitive
+navigation that suits the needs of the elderly
+• Provide seniors easy access to information on local healthcare services
+• Enable seniors to stay connected with their families, friends, and the local community
+• Integrate tools for medication management, appointment scheduling, fitness tracking to support the overall health and well-being of senior users.
+• Provide features that allow caregivers to remotely monitor their seniors' well-being, receive alerts, and coordinate care efforts.
